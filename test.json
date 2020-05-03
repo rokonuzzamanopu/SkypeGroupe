@@ -1,0 +1,110 @@
+[
+    {
+        "group": "ActiveNetwork",
+        "messages": [
+            {
+                "id": "1588273413958",
+                "displayName": "SalehAhammedAnikSECL",
+                "originalarrivaltime": "2020-04-30T19:03:33.966Z",
+                "messagetype": "RichText",
+                "version": 1588273413958.0,
+                "content": "Leaving",
+                "conversationid": "19:f9dab508e62047e78051ef16da415720@thread.skype",
+                "from": "8:anik6563",
+                "properties": null,
+                "amsreferences": null
+            },
+            {
+                "id": "1588273169378",
+                "displayName": "RezaSECL",
+                "originalarrivaltime": "2020-04-30T18:59:29.377Z",
+                "messagetype": "RichText",
+                "version": 1588273169378.0,
+                "content": "Attending webinar session by VIAVI on T-BERD 5800 from 11:00 PM.",
+                "conversationid": "19:f9dab508e62047e78051ef16da415720@thread.skype",
+                "from": "8:rezat20l",
+                "properties": null,
+                "amsreferences": null
+            },
+            {
+                "id": "1588273413958",
+                "displayName": "SalehAhammedAnikSECL",
+                "originalarrivaltime": "2020-04-30T19:03:33.966Z",
+                "messagetype": "RichText",
+                "version": 1588273413958.0,
+                "content": "Leaving",
+                "conversationid": "19:f9dab508e62047e78051ef16da415720@thread.skype",
+                "from": "8:anik6563",
+                "properties": null,
+                "amsreferences": null
+            },
+            {
+                "id": "1588273169378",
+                "displayName": "RezaSECL",
+                "originalarrivaltime": "2020-04-30T18:59:29.377Z",
+                "messagetype": "RichText",
+                "version": 1588273169378.0,
+                "content": "Attending webinar session by VIAVI on T-BERD 5800 from 11:00 PM.",
+                "conversationid": "19:f9dab508e62047e78051ef16da415720@thread.skype",
+                "from": "8:rezat20l",
+                "properties": null,
+                "amsreferences": null
+            }
+        ]
+    },
+
+        {
+            "group": "SoftwareServices",
+            "messages": [
+                {
+                    "id": "1588263951710",
+                    "displayName": "AzharSECL",
+                    "originalarrivaltime": "2020-04-30T16:25:50.369Z",
+                    "messagetype": "RichText",
+                    "version": 1588263951710.0,
+                    "content": "Leaving online",
+                    "conversationid": "19:b584a7659fd3469cafc298cb47b67677@thread.skype",
+                    "from": "8:azharul.islam53",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1588257095372",
+                    "displayName": "SagarSECL",
+                    "originalarrivaltime": "2020-04-30T14:31:35.358Z",
+                    "messagetype": "RichText",
+                    "version": 1588257095372.0,
+                    "content": "Leaving online",
+                    "conversationid": "19:b584a7659fd3469cafc298cb47b67677@thread.skype",
+                    "from": "8:sagar.janu.love",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1588255779976",
+                    "displayName": "NazmulSECL",
+                    "originalarrivaltime": "2020-04-30T14:09:38.835Z",
+                    "messagetype": "RichText",
+                    "version": 1588255779976.0,
+                    "content": "Leaving online",
+                    "conversationid": "19:b584a7659fd3469cafc298cb47b67677@thread.skype",
+                    "from": "8:nazmul.spec",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1588254941692",
+                    "displayName": "LaboniSECL",
+                    "originalarrivaltime": "2020-04-30T13:55:39.312Z",
+                    "messagetype": "RichText",
+                    "version": 1588254941692.0,
+                    "content": "Leaving ",
+                    "conversationid": "19:b584a7659fd3469cafc298cb47b67677@thread.skype",
+                    "from": "8:laboni.das26",
+                    "properties": null,
+                    "amsreferences": null
+                }
+    
+]
+        }
+    ]
