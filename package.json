@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "excel-export": "^0.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.10.0",
     "node-excel-export": "^1.4.4",
     "node-stringify": "^0.2.1"
